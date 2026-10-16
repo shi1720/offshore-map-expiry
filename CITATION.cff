@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the research manuscript when using this software or its results."
+type: software
+title: "When Portfolio Maps Go Stale: Replication Package"
+version: 1.0.0
+date-released: 2026-10-16
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: Independent Researcher
+    email: shivam1720406@gmail.com
+repository-code: "https://github.com/shi1720/offshore-map-expiry"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "When Portfolio Maps Go Stale: Offshore Restatement and Measured External Adjustment"
+  authors:
+    - family-names: Gupta
+      given-names: Shivam
+  year: 2026
+  url: "https://github.com/shi1720/offshore-map-expiry"

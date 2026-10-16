@@ -1,0 +1,10 @@
+data/raw/
+__pycache__/
+.pytest_cache/
+.venv/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+paper/main.pdf

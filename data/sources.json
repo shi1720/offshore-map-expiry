@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "filename": "Restatement_Matrices.dta",
+      "sha256": "e28e4b449b8bc8ae40d2759bd0880c7809577542ae5cad59d5e3beec70cfad87",
+      "bytes": 140232696,
+      "accessed": "2026-10-16",
+      "provider": "Global Capital Allocation Project",
+      "url": "https://globalcapitalallocation.s3.us-east-2.amazonaws.com/Restatement_Matrices.dta",
+      "terms": "Academic research and educational use only; not redistributed here.",
+      "version": "December 2022, 1.5",
+      "archive_url": "https://globalcapitalallocation.s3.us-east-2.amazonaws.com/Restatement_Matrices.tar.gz"
+    },
+    {
+      "filename": "Restated_Bilateral_External_Portfolios.dta",
+      "sha256": "705ebf551297a12ed5a14b004f9fd3556ba4fbcf8917a14d9bad276f9166d620",
+      "bytes": 31534126,
+      "accessed": "2026-10-16",
+      "provider": "Global Capital Allocation Project",
+      "url": "https://globalcapitalallocation.s3.us-east-2.amazonaws.com/Restated_Bilateral_External_Portfolios.dta",
+      "terms": "Academic research and educational use only; not redistributed here.",
+      "version": "December 2022, 1.8"
+    },
+    {
+      "filename": "fed_portfolio_holdings.zip",
+      "sha256": "aaec0b133c2961b987f1829f9532f14aff9dc7535ccd900007c6f825e2a219bf",
+      "bytes": 139245,
+      "accessed": "2026-10-16",
+      "provider": "Federal Reserve Board",
+      "url": "https://www.federalreserve.gov/econres/notes/feds-notes/portfolio_holdings.zip",
+      "version": "December 2025 update, 2003-2024"
+    }
+  ]
+}

@@ -1,0 +1,1410 @@
+{
+  "maps_rows": 4122880,
+  "positions_rows": 398332,
+  "country_codes": 244,
+  "books": 154,
+  "source_row_sum_max_error": 5.960464477539063e-08,
+  "negative_cleaning": [
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 162427.50327852322,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 119799.67219540232,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 135841.10371075172,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 163195.254373618,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 164758.1120943954,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 201007.1363956175,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 217376.8333960137,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 250381.0016377898,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 275001.4450867053,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 314740.4436299993,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 364765.2451175768,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 398913.56938640814,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 466713.3777471477,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CAN",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 501089.7635345364,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 571110.0462093116,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 591204.4935934894,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 677027.2626701212,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 676152.7051797692,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 658305.6628367656,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 739947.3151011079,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 725868.6910214691,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 678147.8969015765,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 652326.3092165556,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 644183.4229172253,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 667188.1408979595,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 635767.2509961929,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 681323.8015050783,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "CHE",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 740589.8226510056,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 144489.38978976617,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 148250.10880054493,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 178484.80761449685,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 188488.76774802702,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 182002.74993038148,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 206874.9447792052,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 201028.32227908427,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 203845.36217205215,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 183512.0058565155,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 184717.55898366607,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 196766.2741434026,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 1,
+      "negative_musd": 0.153388348621039,
+      "signed_total_musd": 191108.5375954843,
+      "negative_fraction": 8.026242602814173e-07
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 1,
+      "negative_musd": 0.14979253733578998,
+      "signed_total_musd": 218512.70989679295,
+      "negative_fraction": 6.855094946492558e-07
+    },
+    {
+      "investor": "DNK",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 1,
+      "negative_musd": 0.165081880612784,
+      "signed_total_musd": 249940.4054410987,
+      "negative_fraction": 6.604849676923782e-07
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4009423.077084146,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 3805175.1971026147,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4046777.534905332,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4174233.4123133933,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 3939156.46921529,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4441008.873179377,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4498108.9218065785,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4561432.894731193,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4585666.953616649,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4993395.637325794,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5986841.529003414,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5863087.294254785,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 1,
+      "negative_musd": 327.4406064304,
+      "signed_total_musd": 6449114.832461687,
+      "negative_fraction": 5.077295333341318e-05
+    },
+    {
+      "investor": "EMU",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 7547470.880108964,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 3,
+      "negative_musd": 849.9417305514561,
+      "signed_total_musd": 1884700.5534,
+      "negative_fraction": 0.0004509691096647481
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 3,
+      "negative_musd": 36.98149035257913,
+      "signed_total_musd": 1602233.0011644382,
+      "negative_fraction": 2.3081218727677234e-05
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 14,
+      "negative_musd": 6636.069649335847,
+      "signed_total_musd": 1956534.1255914993,
+      "negative_fraction": 0.0033917474592116462
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 2,
+      "negative_musd": 3.131,
+      "signed_total_musd": 2145345.6690820083,
+      "negative_fraction": 1.4594384695776098e-06
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 2,
+      "negative_musd": 3.71064,
+      "signed_total_musd": 2160141.3455,
+      "negative_fraction": 1.7177764814927479e-06
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 1,
+      "negative_musd": 0.4734,
+      "signed_total_musd": 2331274.080000001,
+      "negative_fraction": 2.030649266258731e-07
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 1,
+      "negative_musd": 0.98808,
+      "signed_total_musd": 2536941.5104,
+      "negative_fraction": 3.89476854688782e-07
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 2169784.2035200004,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 1,
+      "negative_musd": 1.63009,
+      "signed_total_musd": 2109334.38534,
+      "negative_fraction": 7.727982871417746e-07
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 1,
+      "negative_musd": 0.6151,
+      "signed_total_musd": 1875940.5914,
+      "negative_fraction": 3.2788884830353585e-07
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 11,
+      "negative_musd": 174.83880999999997,
+      "signed_total_musd": 1311883.0138150002,
+      "negative_fraction": 0.00013327317158529463
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 6,
+      "negative_musd": 16.885015000000003,
+      "signed_total_musd": 1337900.28681,
+      "negative_fraction": 1.2620533208987872e-05
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 5,
+      "negative_musd": 17.84524,
+      "signed_total_musd": 1446938.5093099999,
+      "negative_fraction": 1.2333101845848199e-05
+    },
+    {
+      "investor": "GBR",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 1,
+      "negative_musd": 0.2684,
+      "signed_total_musd": 1621824.1776,
+      "negative_fraction": 1.6549266172439383e-07
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 297549.1682070241,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 320004.28571428574,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 296669.37716262974,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 1,
+      "negative_musd": 1.36518771331058,
+      "signed_total_musd": 323655.11945392494,
+      "negative_fraction": 4.2180321930762045e-06
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 341141.06844741234,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 395549.19210053864,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 445454.9342105258,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 444605.92193808826,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 425639.8410896708,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 424008.4686774947,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 447167.72228989017,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 420184.3498273872,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 439715.83143508004,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "NOR",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 478027.667057444,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2007,
+      "negative_cells": 2,
+      "negative_musd": 0.051344018959710656,
+      "signed_total_musd": 171462.0166252962,
+      "negative_fraction": 2.994483557948294e-07
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 138517.33539446394,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 151155.88597006947,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 158995.11614796484,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 143626.19885114045,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 148901.22223076326,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2013,
+      "negative_cells": 1,
+      "negative_musd": 110.682150751891,
+      "signed_total_musd": 154733.3354089479,
+      "negative_fraction": 0.0007153090215457896
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 154885.99643254158,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 127299.90048336651,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 122258.72304738355,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 147280.21442495135,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 136786.80690471403,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 137272.2678051036,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "SWE",
+      "asset": "B",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 149455.68165142095,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1229586.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 999217.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1344860.1666666665,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1441013.3333333333,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1515828.5,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1654586.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1737981.6666666667,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1890270.3333333333,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2015,
+      "negative_cells": 1,
+      "negative_musd": 443.0,
+      "signed_total_musd": 1734709.0,
+      "negative_fraction": 0.00025537424432570534
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 1711841.5,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2017,
+      "negative_cells": 1,
+      "negative_musd": 43.0,
+      "signed_total_musd": 2062498.0,
+      "negative_fraction": 2.0848505065217033e-05
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 2237302.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 2320816.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BC",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 2350133.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 408948.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 319531.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 400242.25,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 482438.5,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 609169.91666667,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 743890.33333333,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 692757.5,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 700954.666666667,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 669616.833333333,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 695167.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 849826.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 803786.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 817777.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BG",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 940632.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 329766.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 230655.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 237501.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 193459.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 213820.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 229574.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 227338.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 289833.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 299889.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 343259.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 383727.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 361479.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 475715.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "BSF",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 486103.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2007,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5041643.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2008,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 2628180.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2009,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 3791126.333333333,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2010,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4411935.666666667,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2011,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 3871264.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2012,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 4537630.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2013,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5777722.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2014,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5803387.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2015,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5819243.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2016,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 5978231.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2017,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 7912054.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2018,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 6715601.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2019,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 8092367.0,
+      "negative_fraction": -0.0
+    },
+    {
+      "investor": "USA",
+      "asset": "E",
+      "year": 2020,
+      "negative_cells": 0,
+      "negative_musd": -0.0,
+      "signed_total_musd": 9008734.0,
+      "negative_fraction": -0.0
+    }
+  ],
+  "raw_sha256": {
+    "Restated_Bilateral_External_Portfolios.dta": "705ebf551297a12ed5a14b004f9fd3556ba4fbcf8917a14d9bad276f9166d620",
+    "Restatement_Matrices.dta": "e28e4b449b8bc8ae40d2759bd0880c7809577542ae5cad59d5e3beec70cfad87"
+  },
+  "seed": 1720406,
+  "experiment_rows": {
+    "errors": 1685,
+    "targets": 1980,
+    "routes": 29524,
+    "series": 616,
+    "decomposition": 572,
+    "refresh": 1408,
+    "reconciliation": 140,
+    "enhanced": 107
+  }
+}

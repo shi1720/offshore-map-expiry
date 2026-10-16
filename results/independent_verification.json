@@ -1,0 +1,8 @@
+{
+  "sparse_projections_checked": 495,
+  "target_errors_checked": 1980,
+  "max_tv_difference": 4.934802566580743e-13,
+  "max_target_difference": 4.971197065106736e-14,
+  "max_decomposition_residual": 6.999956170261612e-14,
+  "passed": true
+}
